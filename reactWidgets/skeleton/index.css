@@ -1,0 +1,15 @@
+body {
+  font-family: 'Notable', sans-serif;
+}
+
+.time{
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.date{
+
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reactwidget",
+  "version": "1.0.0",
+  "description": "Creating react widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "say hello"
+  },
+  "author": "",
+  "license": "ISC"
+}
